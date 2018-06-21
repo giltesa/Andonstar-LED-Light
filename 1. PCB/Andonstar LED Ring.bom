@@ -1,0 +1,21 @@
+Andonstar LED Ring/Andonstar LED Ring.sch at 20/06/2018 20:11:08
+
+Assembly variant:
+
+Qty Value                   Device                  Parts                       URL
+6   1W                      LED_Z_POWER             L1, L2, L3, L4, L5, L6      https://www.aliexpress.com/item/10pcs-1W-3W-High-Powre-LED-Bead-Neutral-White-4000-4500K-LED-Chip-Emitter-for-light/32841247517.html
+1   2.1MMJACKSMT            2.1MMJACKSMT            U$2                         https://www.aliexpress.com/item/10PCS-SMD-DC-005-DC-050-DC-Power-Jack-Socket-Connector-DC005-5-5-2-1mm/32784185040.html
+1   10K*                    TRIMPOT_16MM_SMD        R8                          https://www.aliexpress.com/item/10pcs-Dual-Potentiometer-B103-10K-Audio-Potentiometer-Diameter/32672253655.html
+1   100R                    R1206                   R1                          https://www.ebay.es/itm/20pcs-Case-2512-1W-SMD-SMT-Resistor-10-Ohm-Ω-10R-Tolerance-5/172644984590
+
+1                           DIODE-GF1               D1                          https://www.ebay.es/itm/DC-12V-8A-Light-Dimmer-Brightness-Adjustable-Control-For-Single-Color-LED-Strip/182383981044
+2   910R                    R0603                   R4, R5                      =
+1   1K                      R0603                   R3                          =
+1   10K                     R0603                   R2                          =
+2   10R 1W                  R-US_R2512              R6, R7                      =
+1   100nF                   C0603                   C3                          =
+1   700nF                   C0603                   C2                          =
+1   78L05F                  78L05F                  VR1                         =
+1   LM358                   LM358                   U1                          =
+1   N310AD                  FDD8447L                G1                          =
+1   NE555                   NE555D                  IC1                         =
