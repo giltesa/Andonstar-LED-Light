@@ -1,4 +1,4 @@
-# Andonstar LED Ring
+# Andonstar LED Light
 
 This is an electronic circuit made of aluminum to build a light that attaches to the Andonstar ADSM201 microscope.
 
